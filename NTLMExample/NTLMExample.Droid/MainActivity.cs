@@ -11,6 +11,7 @@ using Org.Apache.Http.Authentication;
 using Org.Apache.Http.Client.Methods;
 using Org.Apache.Http.Entity;
 
+// Code in this sample adopted from https://github.com/bradparks/Exchange_SOAP_example_using_NTLM_and_BASIC_authentication_from_java_for_desktop_and_android/blob/master/src/MainApp.java
 namespace NTLMExample.Droid
 {
     [Activity(Label = "NTLMExample.Droid", MainLauncher = true, Icon = "@drawable/icon")]
